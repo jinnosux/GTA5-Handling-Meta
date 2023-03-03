@@ -1,4 +1,4 @@
-# gta5 handling.meta
+# Collection of all GTAV handling.meta files
 
 Forked to include script that scrapes specific value for each car, and save into new file as a C# dictionary.
 
