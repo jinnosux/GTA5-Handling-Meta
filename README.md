@@ -1,6 +1,6 @@
 # Collection of all GTAV handling.meta files
 
-Forked to include script that scrapes specific value for each car, and save into new file as a C# dictionary.
+Forked to include script that scrapes specific value for each car, and save into new file in a C# dictionary format.
 
 Props to [zfbx](https://github.com/zfbx) for creating this repo. Donate to him on buttons below.
 
