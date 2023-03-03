@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <CHandlingDataMgr>
   <HandlingData>
     <Item type="CHandlingData">
-      <handlingName>FREIGHTCAR</handlingName>
+      <handlingName>FREIGHT</handlingName>
       <fMass value="25084.000000" />
       <fInitialDragCoeff value="1.000000" />
       <fPercentSubmerged value="90.000000" />
-      <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
+      <vecCentreOfMassOffset x="0.000000" y="0.000000" z="1.000000" />
       <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000" />
       <fDriveBiasFront value="0.000000" />
       <nInitialDriveGears value="4" />
@@ -49,7 +49,7 @@
       <fSeatOffsetDistZ value="0.000000" />
       <nMonetaryValue value="110000" />
       <strModelFlags>40008008</strModelFlags>
-      <strHandlingFlags>8840</strHandlingFlags>
+      <strHandlingFlags>C008840</strHandlingFlags>
       <strDamageFlags>20</strDamageFlags>
       <AIHandling>AVERAGE</AIHandling>
       <SubHandlingData>
